@@ -1,0 +1,20 @@
+git config --global user.name Manjunath Shivaram
+git config --global user.email manjuscorpio@gmail.com
+
+*.md md stands for markdown
+
+
+####
+12:05 PM 2/1/2019
+
+github git repository
+pio/pio034
+
+https://github.com/manjuscorpio/datasciencecoursera
+
+####
+git sample commands good examples
+
+https://dzone.com/articles/top-20-git-commands-with-examples
+
+####
